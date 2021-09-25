@@ -2,7 +2,7 @@
 
 ## The code is guaranteed to work in python3.6 and higher. You may want to use a virtual or conda environment.
 
-## git clone 
+## git clone https://github.com/abhijd/adeshpande35-omscs7641-assignment-1
 
 ## go into the cloned folder 
 
